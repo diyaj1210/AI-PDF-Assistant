@@ -73,22 +73,13 @@ GOOGLE_API_KEY=your_gemini_api_key_here
    - Click "Submit & Process" to analyze the documents
 
 2. **Ask Questions:**
-   - Type your question in the text input field
+   - Type your question related to the uploaded and processed PDF in the text input field
    - Press Enter or click to submit
    - Get instant, context-aware answers
 
 3. **View Chat History:**
-   - All conversations are saved in the session
    - Processed files are listed for reference
 
-### Example Questions You Can Ask
-
-- "What is the main topic of this document?"
-- "Summarize the key points from the PDF"
-- "What are the educational qualifications mentioned?"
-- "List all the skills mentioned in the resume"
-- "What experience does the person have?"
-- "What are the project details?"
 
 ## 📁 Project Structure
 
@@ -161,3 +152,4 @@ model = ChatGoogleGenerativeAI(
 ## 📄 License
 
 This project is licensed under the MIT License
+
