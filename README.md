@@ -85,13 +85,13 @@ GOOGLE_API_KEY=your_gemini_api_key_here
 
 ```
 AI-PDF-Assistant/
-├── app.py                # Main Streamlit application
-├── gemini_chat.py        # Basic Gemini chat (fallback)
-├── requirements.txt      # Python dependencies
-├── README.md            # This file
-├── .env                 # Environment variables (create this)
-├── .gitignore          # Git ignore rules
-└── faiss_index/        # Vector database (auto-generated)
+├── app.py                 # Main Streamlit application
+├── gemini_chat.py         # Basic Gemini chat (fallback)
+├── requirements.txt       # Python dependencies
+├── README.md              # This file
+├── .env                   # Environment variables (create this)
+├── .gitignore             # Git ignore rules
+└── faiss_index/           # Vector database (auto-generated)
 ```
 
 ## 🔧 Configuration
@@ -152,4 +152,5 @@ model = ChatGoogleGenerativeAI(
 ## 📄 License
 
 This project is licensed under the MIT License
+
 
