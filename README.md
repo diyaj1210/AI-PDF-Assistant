@@ -1,1 +1,1 @@
-# AI-Assisted-PDF-Reader
+# AI-PDF-Assistant
